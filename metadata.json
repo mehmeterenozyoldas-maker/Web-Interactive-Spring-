@@ -1,0 +1,8 @@
+{
+  "name": "V2 Spatial Color Slices",
+  "description": "An immersive, generative 3D spatial experience inspired by Blender scripting. Features undulating organic slices, custom GLSL shaders, reactive post-processing bloom, and interactive hand tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
